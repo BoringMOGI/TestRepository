@@ -1,0 +1,3 @@
+PlayerName, GM
+gold, 3000
+level, 300
